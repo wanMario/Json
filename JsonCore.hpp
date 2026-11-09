@@ -14,7 +14,7 @@
 #include <cstdio>
 #include <cassert>
 #include "Number.hpp"
-#include "../Util/Slice.hpp"
+#include "Slice.hpp"
 
 namespace JSON {
 
