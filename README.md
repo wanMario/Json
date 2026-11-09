@@ -57,11 +57,7 @@ DataStructure/Json/
 ├── tests/JsonCoreTests.cpp   # 316 条断言（含 Number 保真、ParseError 行列、容忍解析、互操作、YAML、性能回归门）
 ├── examples/usage_demo.cpp   # 覆盖全部 API 的可运行示例
 └── README.md             # 本文档
-DataStructure/Util/
-└── Slice.hpp             # Slice 切片类型（被 JsonCore.hpp 依赖）
 ```
-
-> ⚠️ `JsonCore.hpp` 通过 `#include "../Util/Slice.hpp"` 引用切片头。该相对包含会**按 `JsonCore.hpp` 自身所在目录自动解析**，因此你只需让 `-I` 能定位到 `JsonCore.hpp`（即 `Json/` 目录）即可，无需额外处理 `Slice.hpp`。
 
 ---
 
@@ -92,7 +88,7 @@ ctest --test-dir build --output-on-failure
 ### 3.3 只引入头
 
 把 `JsonCore.hpp`、`JsonCore.cpp` 与 `Number.hpp`、`Number.cpp` 拷入你的工程，并确保 `Slice.hpp` 可通过 `../Util/Slice.hpp` 解析（或直接放到对应相对路径）。需要互操作时加 `JsonInterop.hpp`，需要 YAML 时加 `JsonYaml.hpp` + `JsonYaml.cpp`。库全部 API 在 `namespace JSON` 中。
-
+`Slice.hpp`\、。
 ---
 
 ## 4. 快速开始

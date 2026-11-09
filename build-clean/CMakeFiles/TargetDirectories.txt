@@ -1,0 +1,5 @@
+D:/wan1/C++/Libraries/ToolHead/DataStructure/Json/build-clean/CMakeFiles/JsonCore.dir
+D:/wan1/C++/Libraries/ToolHead/DataStructure/Json/build-clean/CMakeFiles/JsonCoreTests.dir
+D:/wan1/C++/Libraries/ToolHead/DataStructure/Json/build-clean/CMakeFiles/test.dir
+D:/wan1/C++/Libraries/ToolHead/DataStructure/Json/build-clean/CMakeFiles/edit_cache.dir
+D:/wan1/C++/Libraries/ToolHead/DataStructure/Json/build-clean/CMakeFiles/rebuild_cache.dir

@@ -1,2 +1,0 @@
-C:\mingw64\bin\ar.exe qc libJsonCore.a CMakeFiles/JsonCore.dir/JsonCore.cpp.obj CMakeFiles/JsonCore.dir/Number.cpp.obj CMakeFiles/JsonCore.dir/JsonYaml.cpp.obj
-C:\mingw64\bin\ranlib.exe libJsonCore.a
