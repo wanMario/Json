@@ -1,0 +1,22 @@
+Start testing: Oct 13 23:37 中国标准时间
+----------------------------------------------------------
+1/1 Testing: JsonCoreTests
+1/1 Test: JsonCoreTests
+Command: "D:/wan1/C++/Libraries/ToolHead/DataStructure/Json/build_v2/JsonCoreTests.exe"
+Directory: D:/wan1/C++/Libraries/ToolHead/DataStructure/Json/build_v2
+"JsonCoreTests" start time: Oct 13 23:37 中国标准时间
+Output:
+----------------------------------------------------------
+  [perf] OrderedObject build N=200000: 194.4 ms
+  [perf] parse array N=50000: 10.5 ms
+
+==== JsonCore tests: 130 passed, 0 failed ====
+<end of output>
+Test time =   0.91 sec
+----------------------------------------------------------
+Test Passed.
+"JsonCoreTests" end time: Oct 13 23:37 中国标准时间
+"JsonCoreTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 13 23:37 中国标准时间

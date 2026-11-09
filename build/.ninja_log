@@ -1,0 +1,9 @@
+# ninja log v6
+4	9852	8136090114897119	CMakeFiles/JsonCore.dir/JsonCore.cpp.obj	ab1bbb62b5679837
+26	10251	8136090114984324	CMakeFiles/JsonCoreTests.dir/tests/JsonCoreTests.cpp.obj	490c48b085879838
+9857	10405	8136090213408120	libJsonCore.a	df2faf6e285193ed
+10405	10871	8136090218893176	JsonCoreTests.exe	39c6c97112dd0e8b
+8	8688	8136094798929230	CMakeFiles/JsonCore.dir/JsonCore.cpp.obj	ab1bbb62b5679837
+27	8874	8136094799072809	CMakeFiles/JsonCoreTests.dir/tests/JsonCoreTests.cpp.obj	490c48b085879838
+8689	9155	8136094885751727	libJsonCore.a	df2faf6e285193ed
+9155	9731	8136094890411794	JsonCoreTests.exe	39c6c97112dd0e8b

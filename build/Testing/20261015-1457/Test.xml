@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20261015-1457-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.30.4"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Windows"
+	Hostname="WIN-20250726BQU"
+	OSRelease=" Professional"
+	OSVersion=" (Build 9200)"
+	OSPlatform="x86"
+	Is64Bits="1"
+	VendorString=""
+	VendorID="Unknown Manufacturer"
+	FamilyID="0"
+	ModelID="0"
+	ProcessorCacheSize="0"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="30612"
+	TotalPhysicalMemory="12180"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2808"
+	>
+	<Testing>
+		<StartDateTime>Oct 15 22:57 [NON-UTF-8-BYTE-0xD6]й[NON-UTF-8-BYTE-0xFA][NON-UTF-8-BYTE-0xB1][NON-UTF-8-BYTE-0xEA]׼ʱ[NON-UTF-8-BYTE-0xBC][NON-UTF-8-BYTE-0xE4]</StartDateTime>
+		<StartTestTime>1792076265</StartTestTime>
+		<TestList/>
+		<EndDateTime>Oct 15 22:57 [NON-UTF-8-BYTE-0xD6]й[NON-UTF-8-BYTE-0xFA][NON-UTF-8-BYTE-0xB1][NON-UTF-8-BYTE-0xEA]׼ʱ[NON-UTF-8-BYTE-0xBC][NON-UTF-8-BYTE-0xE4]</EndDateTime>
+		<EndTestTime>1792076265</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

@@ -1,0 +1,3 @@
+C:\mingw64\bin\cmake.exe -E rm -f CMakeFiles\JsonCoreTests.dir/objects.a
+C:\mingw64\bin\ar.exe qc CMakeFiles\JsonCoreTests.dir/objects.a @CMakeFiles\JsonCoreTests.dir\objects1.rsp
+c:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\JsonCoreTests.dir/objects.a -Wl,--no-whole-archive -o JsonCoreTests.exe -Wl,--out-implib,libJsonCoreTests.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\JsonCoreTests.dir\linkLibs.rsp
